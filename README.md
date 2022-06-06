@@ -1,8 +1,6 @@
 ### Hi there 👋😄
 
-*Software Enginner at Yumemi inc.🔭*
-
-[![a-mukubayashi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-mukubayashi-611303160/)
+*I have been working as an software engineer since 2018.🍍*
 
 **languages and tools:**
 
@@ -16,9 +14,15 @@
 - Certified ScrumMaster Agreement in ScrumAlliance
 <img src="https://user-images.githubusercontent.com/45552269/172081898-d6e37c5b-a60d-4f14-afd4-d9e4641696b5.png" width="100">
 
-### Favorite holidays 🍍
+**Favorite holidays:**
 - 🤼 Watching professional wrestling
-- 🥘 Cook in staub cocotte
+- 🥘 Cooking in staub cocotte
 
+___
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-mukubayashi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+**Find me elsewhere 🌎**
+
+[![a-mukubayashi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-mukubayashi-611303160/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/su_mi1228)
